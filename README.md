@@ -9,6 +9,12 @@ Badges
 ------
 [![Build Status](https://travis-ci.org/jekkos/opensourcepos.svg?branch=master)](https://travis-ci.org/jekkos/opensourcepos)
 
+Keep the Machine Running
+------------------------
+If you like the project, and you are making money out of it on a daily basis, then consider buying me a coffee so I can keep adding features.
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MUN6AEG7NY6H8)
+
 Server Requirements
 -------------------
 PHP version 5.5 or newer is recommended but PHP 7.x is not fully supported yet.
